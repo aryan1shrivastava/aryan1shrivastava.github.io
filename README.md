@@ -1,1 +1,1 @@
-# aryan1shrivastava.github.io
+# aryanshrivastava.github.io
