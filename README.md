@@ -1,2 +1,2 @@
 # Aryan Shrivastava
-@code.aryan
+insta: @code.aryan
